@@ -265,7 +265,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Um \xEDndio chamado Raoni da tribo Guaranis foi concebido em buscar recursos
-    e alimentos para sua tribo desbravando toda floresta e obstaculos.\n"
+    e alimentos para sua tribo desbravando toda floresta e seus obst\xE1culos.\n"
 --- !u!222 &526146721
 CanvasRenderer:
   m_ObjectHideFlags: 0
