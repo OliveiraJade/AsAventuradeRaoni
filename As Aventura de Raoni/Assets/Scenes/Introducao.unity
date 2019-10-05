@@ -228,8 +228,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 20.9, y: 120.1}
-  m_SizeDelta: {x: 748.8, y: 149.6}
+  m_AnchoredPosition: {x: 9, y: 88.4}
+  m_SizeDelta: {x: 752.3, y: 149.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &526146720
 MonoBehaviour:
@@ -264,8 +264,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Um \xEDndio chamado Raoni da tribo Guaranis foi concebido em buscar recursos
-    e alimentos para sua tribo desbravando toda floresta e seus obst\xE1culos.\n"
+  m_Text: "Uma misteriosa devasta\xE7\xE3o acabou com a metade da mata do Mato Grosso
+    do Sul onde habituava a tribo Guarani. Assim o chefe Cacique, procurou o seu sucessor
+    Raoni, devido o mesmo est\xE1 sem condi\xE7\xF5es de continuar no comando, para
+    orienta-lo tudo que o mesmo deve fazer para ajudar sua tribo.\r\nO destino de
+    Raoni ser\xE1 guiado pela sua for\xE7a e habilidades, assim provar\xE1 seu valor
+    enfrentando desafios.\r\n"
 --- !u!222 &526146721
 CanvasRenderer:
   m_ObjectHideFlags: 0
