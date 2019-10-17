@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Introducao.unity
     guid: a1c7482e905913b42ae3478b9576fe05
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: c4dc3d7a103737f40bbad0daa86d7b1e
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: 7fc9b4c6da92cf44396540361d0b5f3d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 206b04e9c35368349b86d431e336fb5d
+  - enabled: 1
+    path: Assets/Scenes/VoceVenceu.unity
+    guid: 4951b9e34c64fae42893e8cc064da94b
   m_configObjects: {}

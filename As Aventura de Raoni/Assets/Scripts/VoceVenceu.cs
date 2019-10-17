@@ -4,7 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class Portas : MonoBehaviour
+
+public class VoceVenceu : MonoBehaviour
 {
     private Jogo jogo;
     // Start is called before the first frame update
@@ -21,7 +22,7 @@ public class Portas : MonoBehaviour
         if (colisor.gameObject.tag == "Player")
         {
             //jogo.CarregaFase2();
-            SceneManager.LoadScene("Fase2");
+            SceneManager.LoadScene("VoceVenceu");
         }
 
     }
