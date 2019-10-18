@@ -59,13 +59,19 @@ public class Jogo : MonoBehaviour
     {
         if (vidas < 0)
         {
-            SceneManager.LoadScene("GameOver");
+            GameOver();
         }
         else
         {
             vidaText.text = "Vidas: " + PlayerPrefs.GetInt("vidas");
         }
     }
+
+    public void GameOver()
+    {
+        SceneManager.LoadScene("GameOver");
+    }
+
     // Update is called once per frame
     void Update()
     {
